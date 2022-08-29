@@ -1,0 +1,20 @@
+{
+  "name": "gitpod-workspaces",
+  "version": "0.0.1",
+  "description": "This repository contain images for quick remote development on Gitpod. Docker images will be published on Github, Gitlab, Dockerhub Quay and Harbor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W3Dev/gitpod-workspaces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W3Dev/gitpod-workspaces/issues"
+  },
+  "homepage": "https://github.com/W3Dev/gitpod-workspaces#readme"
+}
