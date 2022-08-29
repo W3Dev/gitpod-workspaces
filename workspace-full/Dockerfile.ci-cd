@@ -1,4 +1,5 @@
 FROM gitpod/workspace-full
+LABEL org.opencontainers.image.source = "https://github.com/W3Dev/gitpod-workspaces"
 
 RUN sudo apt-get update -y
 

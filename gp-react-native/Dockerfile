@@ -1,4 +1,5 @@
 FROM gitpod/workspace-full-vnc
+LABEL org.opencontainers.image.source = "https://github.com/W3Dev/gitpod-workspaces"
 
 USER gitpod
 
